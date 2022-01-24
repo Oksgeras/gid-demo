@@ -1,2 +1,7 @@
 swong and spear
 wall of shields
+
+Download, install, configure
+Create a github repo and clone it
+Pull from remote
+Git Gui & gitk
